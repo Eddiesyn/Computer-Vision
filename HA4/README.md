@@ -1,4 +1,4 @@
-#Aufgabe 4
+# Aufgabe 4
 
 Here is the solution to *Aufgabe4.pdf*. It operates the 3D-reconstruction.
 
